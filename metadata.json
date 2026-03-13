@@ -1,0 +1,7 @@
+{
+  "name": "ESG Genie",
+  "description": "Specialized ESG Reporting tool for Malaysian SMEs, mapped to Bursa Malaysia and SEDG standards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
